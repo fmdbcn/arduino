@@ -1,4 +1,4 @@
-# Instruccions per compilar la versio d'ESPurna utilitzada en aquest curs
+# Instruccions per compilar la versio d'ESPurna
 
 1. Baixat espurna-1.13.0.
 2. Descomprimeix-lo en qualsevol ubicació, p.ex. C:\kk\
